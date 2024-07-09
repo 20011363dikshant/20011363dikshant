@@ -1,8 +1,8 @@
-# Hello, I'm Dikshant! 👋
+# Hello, I'm [Your Name]! 👋
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png)
 
-I'm a CSE graduate at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
+I'm a final-year student at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
 
 ## 🛠 Skills
 
@@ -26,15 +26,15 @@ I'm a CSE graduate at Graphic Era Hill University, pursuing a Bachelor's in Comp
 
 ## 🚀 Projects
 
-### [Project Name](https://github.com/yourusername/project-repo)
-![Project Image](https://via.placeholder.com/300x200.png?text=Project+Image)
+### [Portfolio Website](https://github.com/yourusername/portfolio-website)
+![Portfolio Website](https://raw.githubusercontent.com/yourusername/portfolio-website/main/assets/portfolio.png)
 
-Brief description of the project, its features, and technologies used.
+A personal portfolio website to showcase my projects and skills. Built with React.js, Node.js, and Express.js.
 
-### [Another Project](https://github.com/yourusername/another-project-repo)
-![Project Image](https://via.placeholder.com/300x200.png?text=Another+Project+Image)
+### [E-commerce Platform](https://github.com/yourusername/e-commerce-platform)
+![E-commerce Platform](https://raw.githubusercontent.com/yourusername/e-commerce-platform/main/assets/e-commerce.png)
 
-Brief description of the project, its features, and technologies used.
+An e-commerce platform with features like user authentication, product listings, and a shopping cart. Developed using MongoDB, Express.js, React.js, and Node.js.
 
 ## 💬 Let's Connect
 
@@ -42,7 +42,7 @@ Brief description of the project, its features, and technologies used.
 - [Twitter](https://twitter.com/yourtwitterhandle)
 - [Portfolio](https://yourportfolio.com)
 
-![Footer Image](https://via.placeholder.com/1000x100.png?text=Thank+You+for+Visiting+My+Profile)
+![Footer Image](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/footer.png)
 
 ---
 
