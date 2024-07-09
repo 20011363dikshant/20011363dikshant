@@ -1,6 +1,5 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Dikshant! 👋
 
-![Profile Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png)
 
 I'm a final-year student at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
 
@@ -42,7 +41,6 @@ An e-commerce platform with features like user authentication, product listings,
 - [Twitter](https://twitter.com/yourtwitterhandle)
 - [Portfolio](https://yourportfolio.com)
 
-![Footer Image](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/footer.png)
 
 ---
 
