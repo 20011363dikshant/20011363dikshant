@@ -3,6 +3,10 @@
 
 I'm a final-year student at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
 
+<div align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
 ## 🛠 Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
