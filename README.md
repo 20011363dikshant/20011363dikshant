@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
 
-I'm a final-year student at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
+I'm a CSE graduate at Graphic Era Hill University, pursuing a Bachelor's in Computer Science Engineering. My goal is to secure a Web Developer role at a reputed company where I can gain industry knowledge and experience. I am currently working with CodroidHub and have developed a robust skill set in web development technologies.
 
 ## 🛠 Skills
 
