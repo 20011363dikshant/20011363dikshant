@@ -1,21 +1,121 @@
-<h1 align="center">Hi 👋, I'm Dikshant</h1>
-<h3 align="center">A passionate asdasdsadsafrontend developer from India</h3>
+# Hi 👋, I'm Dikshant
 
-- 🔭 I’m currently working on [sdfdsf](sdf)
+### Full Stack Developer | Blockchain Developer | AI & ML Enthusiast
 
-- 🌱 I’m currently learning **sdfsdf**
+Passionate about building scalable applications, solving complex problems, and exploring cutting-edge technologies. I enjoy transforming ideas into real-world products through clean architecture, efficient code, and continuous learning.
 
-- 👯 I’m looking to collaborate on [sdf](sdf)
+---
 
-- 🤝 I’m looking for help with [sdf](dsfds)
+## 🚀 About Me
 
-- 💬 Ask me about **sdfsdf**
+* 💻 Full Stack Developer with experience across **20+ real-world projects**
+* 🌐 Skilled in developing modern web applications using the **MERN Stack**
+* ⛓️ Experienced in **Blockchain Development**, Smart Contracts, and Web3 integrations
+* 🤖 Enthusiastic about **Artificial Intelligence** and **Machine Learning**
+* 📚 Strong problem-solving mindset with consistent practice on coding platforms
+* 🎯 Focused on building scalable, secure, and user-friendly solutions
+* 🔍 Always exploring new technologies and software development best practices
 
-- 📫 How to reach me **sf**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
+* Microservices Architecture
+
+### Database
+
+* MongoDB
+* MySQL
+* PostgreSQL
+
+### Blockchain
+
+* Solidity
+* Smart Contracts
+* Ethereum
+* Web3.js
+* Ethers.js
+
+### AI & Machine Learning
+
+* Python
+* Machine Learning Models
+* Data Processing
+* AI Integrations
+* LLM Applications
+
+### Tools & Platforms
+
+* Git & GitHub
+* Docker
+* Postman
+* Linux
+* VS Code
+* Firebase
+* Vercel
+
+---
+
+## 📈 Coding Journey
+
+I actively practice Data Structures and Algorithms to strengthen my problem-solving skills.
+
+🏆 **LeetCode Rank:** Top ~16,000 Globally
+
+* Solving algorithmic challenges regularly
+* Strong understanding of DSA concepts
+* Focus on optimization and efficient coding practices
+
+---
+
+## 📂 Project Experience
+
+Over the years, I have successfully worked on **20+ projects** spanning multiple domains:
+
+* Full Stack MERN Applications
+* Blockchain & Web3 Platforms
+* AI-Powered Applications
+* Machine Learning Solutions
+* SaaS Products
+* E-Commerce Platforms
+* Real-Time Chat Applications
+* Dashboard & Analytics Systems
+* Authentication & Security Systems
+* API Development & Integrations
+
+Each project has helped me improve my skills in system design, performance optimization, user experience, and software engineering principles.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced System Design
+* AI Agents & LLM Applications
+* Web3 Infrastructure
+* Cloud Technologies
+* Scalable Backend Architectures
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, open-source contributions, and emerging technologies.
+
+> "Building technology that creates impact, one project at a time."
