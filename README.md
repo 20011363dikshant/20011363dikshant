@@ -1,121 +1,201 @@
-# Hi 👋, I'm Dikshant
+<div align="center">
 
-### Full Stack Developer | Blockchain Developer | AI & ML Enthusiast
+# 🚀 Hey There, I'm Dikshant 👋
 
-Passionate about building scalable applications, solving complex problems, and exploring cutting-edge technologies. I enjoy transforming ideas into real-world products through clean architecture, efficient code, and continuous learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;AI+%26+ML+Enthusiast;Building+Products+That+Matter" alt="Typing SVG" />
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=dikshant&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-* 💻 Full Stack Developer with experience across **20+ real-world projects**
-* 🌐 Skilled in developing modern web applications using the **MERN Stack**
-* ⛓️ Experienced in **Blockchain Development**, Smart Contracts, and Web3 integrations
-* 🤖 Enthusiastic about **Artificial Intelligence** and **Machine Learning**
-* 📚 Strong problem-solving mindset with consistent practice on coding platforms
-* 🎯 Focused on building scalable, secure, and user-friendly solutions
-* 🔍 Always exploring new technologies and software development best practices
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+💻 Passionate Full Stack Developer with experience building **20+ Projects**
+
+🚀 Specialized in **MERN Stack Development**
+
+⛓️ Exploring the future through **Blockchain & Web3**
+
+🤖 Building intelligent solutions using **AI & Machine Learning**
+
+🧠 Strong problem-solving mindset and competitive coding enthusiast
+
+🏆 **LeetCode Global Rank: ~16,000**
+
+🌱 Constantly learning new technologies and software architectures
+
+⚡ I enjoy transforming ideas into scalable products
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### Frontend
 
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* Authentication & Authorization
-* Microservices Architecture
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 
 ### Database
 
-* MongoDB
-* MySQL
-* PostgreSQL
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
 ### Blockchain
 
-* Solidity
-* Smart Contracts
-* Ethereum
-* Web3.js
-* Ethers.js
+<img src="https://skillicons.dev/icons?i=solidity" />
 
-### AI & Machine Learning
+### AI / ML
 
-* Python
-* Machine Learning Models
-* Data Processing
-* AI Integrations
-* LLM Applications
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-### Tools & Platforms
+### Tools
 
-* Git & GitHub
-* Docker
-* Postman
-* Linux
-* VS Code
-* Firebase
-* Vercel
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" />
+
+</div>
 
 ---
 
-## 📈 Coding Journey
+## 📊 GitHub Analytics
 
-I actively practice Data Structures and Algorithms to strengthen my problem-solving skills.
+<div align="center">
 
-🏆 **LeetCode Rank:** Top ~16,000 Globally
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dikshant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-* Solving algorithmic challenges regularly
-* Strong understanding of DSA concepts
-* Focus on optimization and efficient coding practices
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
-## 📂 Project Experience
+## 🔥 GitHub Streak
 
-Over the years, I have successfully worked on **20+ projects** spanning multiple domains:
+<div align="center">
 
-* Full Stack MERN Applications
-* Blockchain & Web3 Platforms
-* AI-Powered Applications
-* Machine Learning Solutions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dikshant&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+## 🚀 Project Experience
+
+### 🌐 Full Stack Applications
+
+* Enterprise MERN Applications
+* Authentication Systems
+* Dashboard Platforms
 * SaaS Products
-* E-Commerce Platforms
-* Real-Time Chat Applications
-* Dashboard & Analytics Systems
-* Authentication & Security Systems
-* API Development & Integrations
+* E-Commerce Solutions
 
-Each project has helped me improve my skills in system design, performance optimization, user experience, and software engineering principles.
+### ⛓️ Blockchain Projects
+
+* Smart Contracts
+* Ethereum DApps
+* Web3 Integrations
+* Decentralized Platforms
+
+### 🤖 AI & Machine Learning
+
+* AI-powered Applications
+* LLM Integrations
+* Data Analytics
+* Machine Learning Models
+
+### 📱 Other Development
+
+* REST APIs
+* Real-Time Applications
+* Admin Panels
+* Automation Systems
+
+📈 Successfully delivered **20+ projects** across multiple domains and technologies.
 
 ---
 
-## 🌱 Currently Learning
+## 💻 Coding Profiles
 
-* Advanced System Design
-* AI Agents & LLM Applications
-* Web3 Infrastructure
-* Cloud Technologies
-* Scalable Backend Architectures
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Top_16000_Global-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Problem_Solver-DSA_Enthusiast-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌱 Currently Exploring
 
-I'm always interested in collaborating on innovative projects, open-source contributions, and emerging technologies.
+```yaml
+Learning:
+  - Advanced System Design
+  - AI Agents
+  - Multi-Agent Systems
+  - LLM Engineering
+  - Blockchain Infrastructure
+  - Cloud Technologies
+  - Scalable Architectures
+```
 
-> "Building technology that creates impact, one project at a time."
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshant&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/your-username">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building the Future with Code, Blockchain & AI"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
+
+</div>
