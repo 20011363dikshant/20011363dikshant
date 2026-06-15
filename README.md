@@ -1,201 +1,255 @@
-<div align="center">
+<!-- ========================================= -->
 
-# 🚀 Hey There, I'm Dikshant 👋
+<!--            GITHUB PROFILE README          -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Developer;AI+%26+ML+Enthusiast;Building+Products+That+Matter" alt="Typing SVG" />
+<!-- ========================================= -->
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Dikshant%20Chakrayat&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Senior%20Full%20Stack%20Developer%20|%20Technical%20Instructor%20|%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://komarev.com/ghpvc/?username=dikshant&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile;Senior+Full+Stack+Developer;Technical+Instructor+%26+Mentor;MERN+Stack+Expert;AI+Enthusiast;Speaker+at+Schools+%26+Colleges;Building+Scalable+Web+Applications" />
+</p>
 
-</div>
-
----
-
-## 🌟 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-💻 Passionate Full Stack Developer with experience building **20+ Projects**
-
-🚀 Specialized in **MERN Stack Development**
-
-⛓️ Exploring the future through **Blockchain & Web3**
-
-🤖 Building intelligent solutions using **AI & Machine Learning**
-
-🧠 Strong problem-solving mindset and competitive coding enthusiast
-
-🏆 **LeetCode Global Rank: ~16,000**
-
-🌱 Constantly learning new technologies and software architectures
-
-⚡ I enjoy transforming ideas into scalable products
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Arsenal
+# 👨‍💻 About Me
 
-<div align="center">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Senior Full Stack Developer with 6+ years of experience building scalable web applications.
+
+👨‍🏫 Technical Instructor passionate about mentoring future developers.
+
+🎤 Conducted technical workshops and hands-on coding sessions at multiple schools, colleges, universities, and training institutions.
+
+🤖 Exploring AI-powered applications and intelligent automation.
+
+🌐 Experienced in cloud deployment, Linux servers, and production infrastructure.
+
+💡 Strong believer in practical learning, real-world projects, and industry-focused training.
+
+📚 Continuous learner, mentor, and technology enthusiast.
+
+---
+
+# 👨‍🏫 Technical Instructor & Speaker
+
+### 🎯 Training & Mentorship
+
+* Conducted Web Development Bootcamps
+* Delivered Git & GitHub Workshops
+* Mentored students on real-world industry projects
+* Conducted sessions on HTML, CSS, JavaScript, React.js, Node.js, MongoDB
+* Delivered AI & Emerging Technology Awareness Programs
+* Career Guidance & Industry Readiness Workshops
+* Trained hundreds of students through practical project-based learning
+
+---
+
+# ⚡ Tech Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
 ### Database
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-### Blockchain
+### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=solidity" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode,nginx" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dikshant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<td width="50%">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshant&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+### 🛒 E-Commerce Platform
 
-</div>
+* MERN Stack
+* Payment Gateway Integration
+* Authentication & Authorization
+* Admin Dashboard
+* Product Management
 
----
+</td>
 
-## 🔥 GitHub Streak
+<td width="50%">
 
-<div align="center">
+### 🎓 Learning Management System
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant&theme=tokyonight&hide_border=true&border_radius=15"/>
+* Course Management
+* Quizzes & Assignments
+* Role-Based Access
+* Student Progress Tracking
 
-</div>
+</td>
 
----
+</tr>
 
-## 🏆 Achievements
+<tr>
 
-<div align="center">
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dikshant&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+### 💬 Real-Time Chat Application
 
-</div>
+* Socket.IO
+* React.js
+* Node.js
+* MongoDB
+* Live Messaging
 
----
+</td>
 
-## 🚀 Project Experience
+<td width="50%">
 
-### 🌐 Full Stack Applications
+### 🤖 AI Applications
 
-* Enterprise MERN Applications
-* Authentication Systems
-* Dashboard Platforms
-* SaaS Products
-* E-Commerce Solutions
+* OpenAI Integration
+* Intelligent Automation
+* AI Assistants
+* Smart User Experiences
 
-### ⛓️ Blockchain Projects
+</td>
 
-* Smart Contracts
-* Ethereum DApps
-* Web3 Integrations
-* Decentralized Platforms
-
-### 🤖 AI & Machine Learning
-
-* AI-powered Applications
-* LLM Integrations
-* Data Analytics
-* Machine Learning Models
-
-### 📱 Other Development
-
-* REST APIs
-* Real-Time Applications
-* Admin Panels
-* Automation Systems
-
-📈 Successfully delivered **20+ projects** across multiple domains and technologies.
+</tr>
+</table>
 
 ---
 
-## 💻 Coding Profiles
+# 🌍 Deployment & Infrastructure
 
-<div align="center">
+☁️ Contabo VPS Deployment
 
-<img src="https://img.shields.io/badge/LeetCode-Top_16000_Global-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+🐧 Linux Server Administration
 
-<img src="https://img.shields.io/badge/Problem_Solver-DSA_Enthusiast-blue?style=for-the-badge"/>
+🔒 SSL Configuration
 
-<img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge"/>
+🌐 DNS & Domain Management
 
-</div>
+⚙️ CI/CD Pipelines
+
+🚀 Production Deployments
+
+📦 Docker Containerization
 
 ---
 
-## 🌱 Currently Exploring
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 💼 Current Focus
 
 ```yaml
-Learning:
-  - Advanced System Design
-  - AI Agents
-  - Multi-Agent Systems
-  - LLM Engineering
-  - Blockchain Infrastructure
-  - Cloud Technologies
-  - Scalable Architectures
+Role: Senior Full Stack Developer
+Specialization: MERN Stack Development
+Additional Role: Technical Instructor & Mentor
+Interest Areas:
+  - Artificial Intelligence
+  - System Design
+  - Cloud Deployment
+  - Software Architecture
+  - Developer Mentorship
 ```
 
 ---
 
-## 📈 Contribution Activity
+# 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshant&theme=tokyo-night&hide_border=true"/>
+<a href="https://linkedin.com/in/dikshant-chakrayat-b653a4217">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-</div>
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/your-username">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">
+💡 Building Software • Mentoring Developers • Inspiring Future Tech Talent
+</h2>
 
-### ⚡ "Building the Future with Code, Blockchain & AI"
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
