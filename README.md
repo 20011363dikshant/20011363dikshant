@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=20011363dikshant&label=Profile%20Views&color=00ff41&style=for-the-badge" />
 
 </div>
 
@@ -142,9 +142,9 @@ open_for:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=20011363dikshant&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20011363dikshant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
 </div>
 
@@ -154,7 +154,7 @@ open_for:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=000000"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=20011363dikshant&theme=chartreuse-dark&hide_border=true&background=000000"/>
 
 </div>
 
@@ -164,7 +164,7 @@ open_for:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=20011363dikshant&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -174,7 +174,7 @@ open_for:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/20011363dikshant/20011363dikshant/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -274,7 +274,7 @@ availability: Immediate
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com20011363dikshant">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 
